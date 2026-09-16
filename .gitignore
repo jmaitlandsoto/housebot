@@ -1,0 +1,9 @@
+.claude
+.venv
+__pycache__
+
+*.pt
+/yolo26n**
+/datasets
+config.json
+.env

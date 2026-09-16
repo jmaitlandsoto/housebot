@@ -1,0 +1,7 @@
+av==18.1.0
+numpy==2.4.6
+opencv-python==5.0.0.93
+pygame==2.6.1
+python-dotenv==1.2.3
+PyYAML==6.0.3
+ultralytics==8.4.152
