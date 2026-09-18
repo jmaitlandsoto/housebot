@@ -11,9 +11,14 @@ Motion-gated object detection on a Tapo RTSP camera stream.
    pip install -r requirements.txt
    ```
 2. Copy `.env.example` to `.env` and fill in your camera's RTSP username, password, and host/IP:
+
    ```
    cp .env.example .env
    ```
+
+   > [!NOTE]
+   > In the Tapo App go to Device Settings > Advanced Settings > Camera Account > Toggle On Camera Account to setup a username and password
+
 3. Run it:
    ```
    python index.py
